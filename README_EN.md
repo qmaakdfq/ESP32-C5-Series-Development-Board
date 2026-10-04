@@ -14,3 +14,5 @@ Included: ST7789 display, XPT2046 touch, TF card, audio/amplifier, 2.4/5GHz Wi-F
 
 Documentation: https://www.zlxchina.com/  
 Technical support: mq19880204@gmail.com
+Internal Model: ZLX-ESP32-2
+Purchase Link: https://www.aliexpress.com/item/3256812849531565.html
